@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ASUS/Documents/Document%20of%20Year%205/Project%20Management/mlflow/MLFLOW/mlruns/0/models/m-ea0adc3834c6464bb7bdb52e9e9e16d5/artifacts
+creation_timestamp: 1750688143739
+experiment_id: '0'
+last_updated_timestamp: 1750688150855
+model_id: m-ea0adc3834c6464bb7bdb52e9e9e16d5
+model_type: null
+name: model
+source_run_id: 22fd78b9335448bbbb665aed8aa25f03
+status: 2
+status_message: null
